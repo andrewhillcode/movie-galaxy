@@ -1,0 +1,117 @@
+.poster {
+
+	width: 223px; 
+	height: 331px;
+}
+
+.poster-container {
+	text-align:center;
+	display: inline;
+}
+
+.mvcontainer {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.details-container {
+	display: inline;
+
+
+}
+
+.nav {
+	margin-bottom: 5px; 
+}
+
+.tab-content {
+	margin-top: 10px;
+}
+
+.year {
+	color: darkgrey;
+	font-size: 25px;
+}
+
+h2 {
+	margin-top: 0px;
+}
+
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footer {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.btn-primary, .btn-warning, .btn-success {
+	padding-top: 3px;
+	padding-bottom: 3px;	
+}
+
+.buy-movie {
+	float: right;
+	display: inline;
+}
+
+.return-button {
+	float: right;
+	display: inline;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.title {
+	display: inline-block;
+}
+
+.banner {
+	height: 250px;
+	background-image: url('/img/banner.png');
+	background-position: center;
+	line-height: 250px;
+	vertical-align: middle;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+		vertical-align: middle;
+		padding-top: 57px;
+}
+
+.header {
+	height: 66px;
+	background-image: url('/img/banner.png');
+}
+
+body {
+	background-color: #e6e6e6;
+}
+
+.content {
+	background-color: white;
+}
+
+.similar-form {
+	display: inline;
+	margin-left: 15px;
+}
+
+.similar-form button {
+	width: 140px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.separator {
+	border-color: darkgrey;
+}
+
+.alert {
+	margin-top: 30px;
+}
