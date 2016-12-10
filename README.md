@@ -11,7 +11,7 @@ themovidedb - https://www.themoviedb.org/documentation/api/
 
 omdb - http://www.omdbapi.com/
 
-guideboxe - https://api.guidebox.com/
+guidebox - https://api.guidebox.com/
 
 # About
 
